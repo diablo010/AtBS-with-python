@@ -1,3 +1,7 @@
+# this is magic8ball game
+# Chapter 4: Functions
+# author: diablo010
+
 import random
 def get_answer(answer_number):
     if answer_number == 1:
