@@ -1,3 +1,7 @@
+# this is matrix screen saver
+# Chapter 6: Lists
+# author: diablo010
+
 import random, sys, time
 
 width = 70      # No of columns
