@@ -1,3 +1,8 @@
+# this is collatz sequence 
+# where after the operations each number returns to 1
+# Chapter 4: Functions
+# author: diablo010
+
 import time
 
 def collatz(number):
