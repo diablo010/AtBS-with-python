@@ -1,3 +1,7 @@
+# this is spike sequence
+# Chapter 4: Functions
+# author: diablo010
+
 import time, sys
 
 try:
