@@ -1,3 +1,7 @@
+# this is logging library used for debugging
+# Chapter 5: Debugging
+# author: diablo010
+
 import logging
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s -  %(levelname)s -  %(message)s')
