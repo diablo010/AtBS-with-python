@@ -1,3 +1,7 @@
+# this is zigzag sequence 
+# Chapter 4: Functions
+# author: diablo010
+
 import time, sys
 
 indent = 0         # Spaces to indent at start
